@@ -18,7 +18,7 @@ function NavBar() {
         <ul className="hidden md:flex gap-8">
           <li>
             <a
-              href=""
+              href="/"
               className="hover:bg-amber-700 text-white py-3 px-4 rounded-md"
             >
               Beranda
@@ -26,7 +26,7 @@ function NavBar() {
           </li>
           <li>
             <a
-              href=""
+              href="/tentang"
               className="hover:bg-amber-700 text-white py-3 px-4 rounded-md"
             >
               Tentang Kami
@@ -34,7 +34,7 @@ function NavBar() {
           </li>
           <li>
             <a
-              href=""
+              href="/kontak"
               className="hover:bg-amber-700 text-white py-3 px-4 rounded-md"
             >
               Kontak
@@ -42,7 +42,7 @@ function NavBar() {
           </li>
           <li>
             <a
-              href=""
+              href="/produk"
               className="hover:bg-amber-700 text-white py-3 px-4 rounded-md"
             >
               Product
@@ -60,16 +60,16 @@ function NavBar() {
       {IsNavOpen && (
         <ul className="w-full p-4 space-y-4 text-white ">
           <li>
-            <a href="">Home</a>
+            <a href="/">Beranda</a>
           </li>
           <li>
-            <a href="">Peserta</a>
+            <a href="/tentang">Tentang</a>
           </li>
           <li>
-            <a href="">Kontak</a>
+            <a href="/kontak">Kontak</a>
           </li>
           <li>
-            <a href="">Product</a>
+            <a href="/produk">Product</a>
           </li>
         </ul>
       )}
