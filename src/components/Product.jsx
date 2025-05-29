@@ -7,7 +7,7 @@ return (
       <div className="bg-white rounded-lg shadow-md p-4 relative">
         <div className="overflow-hidden rounded-md">
           <img
-            src="/coffeea.jpg"
+            src="/ar.jpg"
             alt="Arabica Coffee"
             className="w-full h-48 object-cover transition-transform duration-300 hover:scale-110"
           />
@@ -22,7 +22,7 @@ return (
       <div className="bg-white rounded-lg shadow-md p-4 relative">
         <div className="overflow-hidden rounded-md">
           <img
-            src="/pi.jpg"
+            src="/rbb.jpg"
             alt="Robusta Coffee"
             className="w-full h-48 object-cover transition-transform duration-300 hover:scale-110"
           />
@@ -67,7 +67,7 @@ return (
       <div className="bg-white rounded-lg shadow-md p-4">
         <div className="overflow-hidden rounded-md">
           <img
-            src="/fe.jpg"
+            src="/jj.webp"
             alt="Java Coffee"
             className="w-full h-48 object-cover transition-transform duration-300 hover:scale-110"
           />
@@ -82,7 +82,7 @@ return (
       <div className="bg-white rounded-lg shadow-md p-4 relative">
         <div className="overflow-hidden rounded-md">
           <img
-            src="/to.jpeg"
+            src="/tj.jpg"
             alt="Toraja Coffee"
             className="w-full h-48 object-cover transition-transform duration-300 hover:scale-110"
           />
