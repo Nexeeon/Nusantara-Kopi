@@ -95,11 +95,7 @@ return (
       </div>
       <div className="col-span-full flex justify-center mt-6">
 
-        <a href=""
-          className="bg-amber-700 text-white px-6 py-2 rounded-md hover:bg-amber-600 transition-colors duration-200 shadow-md items-center justify-center"
-        >
-          Lihat Semua Produk
-        </a>
+       
       </div>
     </div>
   </div>

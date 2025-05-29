@@ -15,10 +15,10 @@ function Welcome() {
         </p>
         <div className="mt-8">
           <a
-            href="#products"
+            href="/produk"
             className="inline-block bg-amber-700 hover:bg-amber-800 text-white py-2 px-6 rounded-md transition-colors"
           >
-            Lihat Tentang kami 
+            Lihat semua tentang produk kami
           </a>
         </div>
       </div>

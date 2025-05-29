@@ -5,7 +5,7 @@ function NavBar() {
   const [IsNavOpen, setIsNavOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 border bg-amber-900  z-50">
+    <header className="sticky top-0  bg-amber-900  z-50">
       <div className="flex max-w-7xl px-4 mx-auto justify-between h-16 items-center text">
         <a href="">
           <div className="flex items-center gap-2 text-white">
