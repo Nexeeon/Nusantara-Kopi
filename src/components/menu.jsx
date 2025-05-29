@@ -3,7 +3,7 @@ import React from 'react'
 function Menu() {
 return (
     <div className="bg-amber-900 py-5">
-        <div> 
+        <div className='py-15'> 
 
         <h2 className="text-3xl font-bold text-white text-center ">Produk Kopi Kami  </h2>
         <p className='flex justify-center items-center gap-4 text-amber-200'>produk yang  bisa kami tawarkan kepada anda </p>
