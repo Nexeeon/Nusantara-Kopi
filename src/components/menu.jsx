@@ -3,15 +3,19 @@ import React from 'react'
 function Menu() {
 return (
     <div className="bg-amber-900 py-5">
-        <h2 className="text-3xl font-bold text-white text-center mb-6">Produk Kopi Kami  </h2>
+        <div> 
+
+        <h2 className="text-3xl font-bold text-white text-center ">Produk Kopi Kami  </h2>
+        <p className='flex justify-center items-center gap-4 text-amber-200'>produk yang  bisa kami tawarkan kepada anda </p>
+        </div>
        
-        <div className="flex items-center justify-center p-4">
+        <div className="flex items-center justify-center p-20">
             
             <div className="relative">
                 <input
                     type="text"
                     placeholder="Cari menu..."
-                    className="w-96 px-4 py-2 text-gray-700 bg-white border rounded-lg focus:outline-none focus:border-brown-500" // Changed from w-64 to w-96
+                    className="w-200 px-4 py-2 text-gray-700 bg-white border rounded-lg focus:outline-none focus:border-brown-500" // Changed from w-64 to w-96
                 />
                 <button className="absolute right-3 top-2">
                     <svg

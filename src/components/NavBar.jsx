@@ -7,7 +7,7 @@ function NavBar() {
   return (
     <header className="sticky top-0  bg-amber-900  z-50">
       <div className="flex max-w-7xl px-4 mx-auto justify-between h-16 items-center text">
-        <a href="">
+        <a href="/">
           <div className="flex items-center gap-2 text-white">
             <Coffee />
             <h1 className="">Nusantara coffee</h1>
@@ -52,7 +52,7 @@ function NavBar() {
 
        
         {/* Hamburger Menu Icon */}
-        <button className="md:hidden" onClick={() => setIsNavOpen(!IsNavOpen)}>
+        <button className="md:hidden text-white" onClick={() => setIsNavOpen(!IsNavOpen)}>
           <Menu size={32} />
         </button>
       </div>

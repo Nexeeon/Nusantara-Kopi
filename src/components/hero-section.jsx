@@ -2,7 +2,7 @@ import React from 'react'
 
 function HeroSection() {
   return (
-    <section className="relative h-[30vh] md:h-30vh] overflow-hidden">
+    <section className="relative h-[50vh] md:h-40vh] overflow-hidden">
       <div className="absolute inset-0">
         <img src="./KOpi.jpg" alt="" className='w-full object-cover' />
       </div>
