@@ -2,7 +2,7 @@ import React from 'react'
 
 function Welcome() {
   return (
-    <section className="bg-amber-100 py-12 px-4">
+    <section className="bg-orange-100 py-12 px-4">
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-2xl md:text-3xl font-bold text-amber-900 mb-4">
           Selamat Datang di Kopi Nusantara
@@ -16,9 +16,9 @@ function Welcome() {
         <div className="mt-8">
           <a
             href="#products"
-            className="inline-block bg-amber-700 hover:bg-amber-800 text-white py-2 px-6 rounded-md transition-colors"
+            className="inline-block bg-amber-700 hover:bg-amber-600 text-white py-2 px-6 rounded-md transition-colors"
           >
-            Lihat Produk Kami
+            Lihat Tentang kami
           </a>
         </div>
       </div>
