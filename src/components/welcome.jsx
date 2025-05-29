@@ -16,9 +16,9 @@ function Welcome() {
         <div className="mt-8">
           <a
             href="#products"
-            className="inline-block bg-amber-700 hover:bg-amber-600 text-white py-2 px-6 rounded-md transition-colors"
+            className="inline-block bg-amber-700 hover:bg-amber-800 text-white py-2 px-6 rounded-md transition-colors"
           >
-            Lihat Tentang kami
+            Lihat Tentang kami ->
           </a>
         </div>
       </div>
