@@ -39,7 +39,7 @@ function HerKo() {
               <div className="space-y-4 ">
                 <div>
                   <h3 className="font-semibold text-amber-900">Alamat</h3>
-                  <p>Jl. Contoh No. 123, Kota, Provinsi</p>
+                  <p>Jl. Rambutan Dusun Pesanggrahan, Jawa Timur, Indonesia</p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-amber-900">Email</h3>
@@ -53,7 +53,7 @@ function HerKo() {
                   <h3 className="font-semibold text-amber-900">
                     Jam Operasional
                   </h3>
-                  <p>Senin - Minggu: 08:00 - 22:00</p>
+                  <p>START FROM 16.00 - 24.00 WIB (selasa-jumat)</p>
                 </div>
               </div>
             </div>

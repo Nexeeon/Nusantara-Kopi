@@ -32,14 +32,20 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2" />
-                <span>Jl. parak palembang inilah </span>
+                <span>
+                  Jl. Rambutan  Dusun Pesanggrahan,
+                   Jawa Timur, Indonesia
+                </span>
               </li>
             </ul>
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Ikuti Kami</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-amber-200 hover:text-white">
+              <a
+                href="https://www.instagram.com/nusantara_coffe?igsh=bWZ1MmgwdXE4a2F0"
+                className="text-amber-200 hover:text-white"
+              >
                 <Instagram className="h-6 w-6" />
               </a>
               <a href="#" className="text-amber-200 hover:text-white">
