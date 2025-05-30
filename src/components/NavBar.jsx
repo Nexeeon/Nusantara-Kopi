@@ -48,11 +48,21 @@ function NavBar() {
               Product
             </a>
           </li>
+          <li>
+            <a
+              href="/review "
+              className="hover:bg-amber-700 text-white py-3 px-4 rounded-md"
+            >
+              Review
+            </a>
+          </li>
         </ul>
 
-       
         {/* Hamburger Menu Icon */}
-        <button className="md:hidden text-white" onClick={() => setIsNavOpen(!IsNavOpen)}>
+        <button
+          className="md:hidden text-white"
+          onClick={() => setIsNavOpen(!IsNavOpen)}
+        >
           <Menu size={32} />
         </button>
       </div>
@@ -71,6 +81,9 @@ function NavBar() {
           </li>
           <li>
             <a href="/produk">Product</a>
+          </li>
+          <li>
+            <a href="">Review</a>
           </li>
         </ul>
       )}

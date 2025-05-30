@@ -23,39 +23,39 @@ return (
                 </div>
                 <div className="bg-white rounded-lg overflow-hidden shadow-md">
                     <img
-                        src="https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                        alt="Siti Rahma"
+                        src="./gambartim2.jpeg"
+                        alt="sutan"
                         className="w-full h-64 object-cover"
                     />
                     <div className="p-4 text-center">
                         <h3 className="text-lg font-semibold text-amber-900">
-                            Siti Rahma
+                            Sutan Akbar Dwi Nugraha
                         </h3>
                         
                     </div>
                 </div>
                 <div className="bg-white rounded-lg overflow-hidden shadow-md">
                     <img
-                        src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                        alt="Budi Santoso"
+                        src="./gambartim3.jpeg"
+                        alt="annisa"
                         className="w-full h-64 object-cover"
                     />
                     <div className="p-4 text-center">
                         <h3 className="text-lg font-semibold text-amber-900">
-                            Budi Santoso
+                            Annisa Urahmi
                         </h3>
                         
                     </div>
                 </div>
                 <div className="bg-white rounded-lg overflow-hidden shadow-md">
                     <img
-                        src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                        alt="Budi Santoso"
+                        src="./gambartim1.jpeg"
+                        alt="Aisyah"
                         className="w-full h-64 object-cover"
                     />
                     <div className="p-4 text-center">
                         <h3 className="text-lg font-semibold text-amber-900">
-                            Budi Santoso
+                            Aisyah Arianti
                         </h3>
                        
                     </div>

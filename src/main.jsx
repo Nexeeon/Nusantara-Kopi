@@ -6,6 +6,7 @@ import HomePage from "./pages/HomePage.jsx";
 import AboutGroup from "./pages/aboutgroup.jsx";
 import Kontak from "./pages/Kontak.jsx";
 import Produk from "./pages/produk.jsx";
+import ReviewPage from "./pages/ReviewPage.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -15,6 +16,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/tentang" element={<AboutGroup />} />
         <Route path="/kontak" element={<Kontak />} />
         <Route path="/produk" element={<Produk />} />
+        <Route path="/review" element={<ReviewPage />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>
