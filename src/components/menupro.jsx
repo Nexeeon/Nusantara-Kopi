@@ -7,13 +7,13 @@ return (
         {[
           {
             name: "Arabica Coffee",
-            image: "/coffeea.jpg",
+            image: "/ar.jpg",
             description: "Premium single-origin Arabica beans with a smooth, balanced flavor.",
             price: "95.000"
           },
           {
             name: "Robusta Coffee",
-            image: "/pi.jpg",
+            image: "/rbb.jpg",
             description: "Strong and full-bodied Robusta beans with intense flavor.",
             price: "75.000"
           },
@@ -31,67 +31,67 @@ return (
           },
           {
             name: "Java Coffee",
-            image: "/fe.jpg",
+            image: "/jj.webp",
             description: "Classic Indonesian coffee with a sweet and clean taste.",
             price: "88.000"
           },
           {
             name: "Toraja Coffee",
-            image: "/to.jpeg",
+            image: "/tj.jpg",
             description: "Complex and full-bodied coffee from Sulawesi.",
             price: "98.000"
           },
           {
             name: "Bali Kintamani",
-            image: "/coffeea.jpg",
+            image: "/hh.jpg",
             description: "Citrusy and bright coffee from Bali highlands.",
             price: "92.000"
           },
           {
             name: "Aceh Gayo",
-            image: "/pi.jpg",
+            image: "/gy.jpg",
             description: "Full-bodied coffee with herbal notes from Aceh.",
             price: "94.000"
           },
           {
             name: "Flores Bajawa",
-            image: "ko.png",
+            image: "bj.jpg",
             description: "Spicy and chocolate notes from Flores Island.",
             price: "89.000"
           },
           {
             name: "Papua Wamena",
-            image: "co.jpg",
+            image: "wm.jpg",
             description: "Exotic coffee with fruity notes from Papua.",
             price: "96.000"
           },
           {
             name: "Lampung Coffee",
-            image: "/fe.jpg",
+            image: "/lp.jpg",
             description: "Bold and rich coffee from Lampung region.",
             price: "82.000"
           },
           {
             name: "Luwak Coffee",
-            image: "/to.jpeg",
+            image: "/lw.jpg",
             description: "Premium Indonesian civet coffee.",
             price: "199.000"
           },
           {
             name: "Mandailing Coffee",
-            image: "/coffeea.jpg",
+            image: "/md.png",
             description: "Low acidity coffee with earthy notes.",
             price: "93.000"
           },
           {
             name: "Preanger Coffee",
-            image: "/pi.jpg",
+            image: "/jv.jpg",
             description: "Classic West Java coffee with mild flavor.",
             price: "87.000"
           },
           {
             name: "Sidikalang Coffee",
-            image: "ko.png",
+            image: "sd.jpg",
             description: "Full-bodied coffee from North Sumatra.",
             price: "91.000"
           }
@@ -101,7 +101,7 @@ return (
               <img
                 src={coffee.image}
                 alt={coffee.name}
-                className="w-full h-48 object-cover transition-transform duration-300 hover:scale-110"
+                className="w-full h-57 object-cover transition-transform duration-300 hover:scale-110"
               />
             </div>
             <h3 className="text-xl font-bold mt-2">{coffee.name}</h3>
