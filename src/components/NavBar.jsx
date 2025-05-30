@@ -83,7 +83,7 @@ function NavBar() {
             <a href="/produk">Product</a>
           </li>
           <li>
-            <a href="">Review</a>
+            <a href="/review">Review</a>
           </li>
         </ul>
       )}
