@@ -6,6 +6,7 @@ import Story from '../components/story'
 import Velue from '../components/velue'
 import Proses from '../components/proses'
 import Team from '../components/tim'
+import Visi from '../components/visi'
 
 function AboutGroup() {
   return (
@@ -13,6 +14,7 @@ function AboutGroup() {
       <NavBar />
         <HeTa />
           <Story />
+          <Visi />
           <Velue />
             <Proses />
             <Team />
