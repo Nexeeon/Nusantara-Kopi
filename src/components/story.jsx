@@ -10,7 +10,7 @@ function Story() {
               Cerita Kami
             </h2>
             <p className="text-gray-700 mb-4">
-              Kopi Nusantara didirikan pada tahun 2015 oleh sekelompok pecinta
+              Kopi Nusantara didirikan pada tahun 2022 oleh sekelompok pecinta
               kopi yang memiliki misi untuk memperkenalkan kekayaan cita rasa
               kopi Indonesia ke seluruh dunia.
             </p>

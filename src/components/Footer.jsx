@@ -33,8 +33,7 @@ const Footer = () => {
               <li className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2" />
                 <span>
-                  Jl. Rambutan  Dusun Pesanggrahan,
-                   Jawa Timur, Indonesia
+                  Jl. Rambutan Dusun Pesanggrahan, Jawa Timur, Indonesia
                 </span>
               </li>
             </ul>
@@ -48,7 +47,10 @@ const Footer = () => {
               >
                 <Instagram className="h-6 w-6" />
               </a>
-              <a href="#" className="text-amber-200 hover:text-white">
+              <a
+                href="https://www.facebook.com/nusantaracoffe"
+                className="text-amber-200 hover:text-white"
+              >
                 <Facebook className="h-6 w-6" />
               </a>
               <a href="#" className="text-amber-200 hover:text-white">
