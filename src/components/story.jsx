@@ -28,7 +28,7 @@ function Story() {
           </div>
           <div className="rounded-lg overflow-hidden shadow-lg">
             <img
-              src="./kopi-gayo.jpg"
+              src="./hot-co.jpg"
               alt="Founders of Kopi Nusantara"
               className="w-full h-full object-cover"
             />
