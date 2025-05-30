@@ -2,9 +2,9 @@ import React from 'react'
 
 function HeroSection() {
   return (
-    <section className="relative h-[50vh] md:h-40vh] overflow-hidden">
+    <section className="relative h-screen overflow-hidden">
       <div className="absolute inset-0">
-        <img src="./KOpi.jpg" alt="" className='w-full object-cover' />
+        <img src="./KOpi.jpg" alt="" className='w-full h-full object-cover' />
       </div>
       <div className="relative h-full flex items-center justify-center px-4">
         <div className="text-center">

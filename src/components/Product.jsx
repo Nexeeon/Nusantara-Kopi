@@ -94,8 +94,11 @@ return (
         <p className="text-lg font-semibold mt-2">Rp 98.000</p>
       </div>
       <div className="col-span-full flex justify-center mt-6">
-
-       
+        <a href="/produk">
+        <button className="bg-amber-700 text-white px-8 py-3 rounded-md font-semibold hover:bg-amber-600  shadow-lg">
+          Lihat Semua Produk Kami
+        </button>
+        </a>
       </div>
     </div>
   </div>
