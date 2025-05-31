@@ -2,8 +2,8 @@ import React from 'react'
 
 function MenuPro() {
 return (
-    <div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4 bg-orange-100">
+    <div className='bg-orange-100'>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4  min-h-screen max-w-7xl mx-auto">
         {[
           {
             name: "Arabica Coffee",
